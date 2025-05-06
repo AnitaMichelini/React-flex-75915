@@ -25,4 +25,9 @@ Clase 2
   - Ejemplo: let contador = 0 // contador++ le asigna el valor de contador sumado a 1
   - Destructuring de objetos // const {nombre} = objeto corresponde a crear una variable nombre con un valor objeto.nombre
   - Destructuring de arrays // const [primero, segundo] = array corresponde a crear una variables priemro y segundo  con un valor array [0] y array [1] respectivamente.
+
+  ··ClassName
+  
+  - Utilizamos className en vez de class para las etiquetas
+  - Necesitamos exportar los cmponentes para poder traerlos en otro archivo e importarlos para tenerlos disponibles
   
